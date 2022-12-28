@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/Jasamkli/Serviss</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/issues</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/pulls</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/actions</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/projects?query=is%3Aopen</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/security</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/commit/d45082990ecc0b0dd3bb777dd038a0d77a541197</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/releases</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/labels</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/compare</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/security/policy</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/security/advisories</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/labels?sort=name-asc</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/labels?sort=name-desc</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/labels?sort=count-desc</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/labels?sort=count-asc</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/labels/bug</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/labels/documentation</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/labels/duplicate</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/labels/enhancement</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/labels/good%20first%20issue</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/labels/help%20wanted</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/labels/invalid</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/labels/question</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/labels/wontfix</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?state=open</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?state=closed</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Jasamkli/Serviss/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-12-15T23:35:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
